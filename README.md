@@ -3,3 +3,5 @@
 - feature-A
 - fix-B
 -freture-C - fixed
+
+-feature-D
